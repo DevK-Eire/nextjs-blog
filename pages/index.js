@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
         <p>Hello, I am Killian. I am new Software Developer from Ireland</p>
         <p>
           Check out my Github Page to my Porfolio{' '}
-          <a href="https://github.com/DevK-Eire">Github DevK-EIRE</a>.)
+          <a href="https://github.com/DevK-Eire">Github DevK-EIRE</a>
         </p>
       </section>
 
